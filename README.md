@@ -1,4 +1,5 @@
-### Hi there 👋
+# About ninomiya daisuke
+### Hi, I'm a front-end engineer
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,astro,ts,js,tailwind,sass,html,css,prisma,firebaseta,supabase,gcp,github&perline=6)](https://skillicons.dev)
 
