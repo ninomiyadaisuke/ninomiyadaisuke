@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,gcp,firebase,react,gcp&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,astro,ts,js,tailwind,sass,html,css,prisma,firebaseta,supabase,gcp,github&perline=6)](https://skillicons.dev)
 
 <!--
 **ninomiyadaisuke/ninomiyadaisuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
