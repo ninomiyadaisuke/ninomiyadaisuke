@@ -1,7 +1,7 @@
 # About ninomiya daisuke
 ### Hi, I'm a front-end engineer
 ### my slills
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,astro,ts,js,tailwind,sass,html,css,prisma,firebaseta,supabase,gcp,github&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,astro,ts,js,tailwind,sass,html,css,prisma,firebase,supabase,gcp,github&perline=6)](https://skillicons.dev)
 
 <!--
 **ninomiyadaisuke/ninomiyadaisuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
