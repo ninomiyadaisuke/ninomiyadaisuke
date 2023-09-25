@@ -3,7 +3,7 @@
 Hello! I'm Daisuke, a passionate front-end engineer. I love crafting beautiful and responsive web interfaces using modern web technologies.
 
 ## 🛠 My Skills
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,astro,ts,js,tailwind,sass,html,css,prisma,firebase,supabase,gcp,github&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,astro,ts,js,tailwind,sass,html,css,prisma,firebase,supabase,gcp,github&perline=6)]()
 
 ## 📈 GitHub Stats
 
